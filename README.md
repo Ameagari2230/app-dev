@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-### Favorite series
+## Favorite series
 
 **Movie Name:** *Dead poet Society* 
 ---
